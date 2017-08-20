@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:ns0="https://zekaf.github.io/semantic-ontologies/cc#">
+
+  <foaf:Person rdf:about="http://zekaf.github.io/profile/bob#me">
+    <foaf:name>Bob</foaf:name>
+    <foaf:knows rdf:resource="https://example.edu/p/alice#me"/>
+    <ns0:wallet>namecoin:N2pGWAh67TWpWmEFrFxsRQkQubbczJSKi8</ns0:wallet>
+  </foaf:Person>
+
+</rdf:RDF>
