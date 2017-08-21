@@ -1,8 +1,8 @@
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix ns0: <https://zekaf.github.io/semantic-ontologies/cc#> .
+@prefix cc: <https://zekaf.github.io/semantic-ontologies/cc#> .
 
 <https://zekaf.github.io/profile/bob#me>
   a foaf:Person ;
   foaf:name "Bob" ;
   foaf:knows <https://example.edu/p/alice#me> ;
-  ns0:wallet "namecoin:N2pGWAh67TWpWmEFrFxsRQkQubbczJSKi8" .
+  cc:wallet "namecoin:N2pGWAh67TWpWmEFrFxsRQkQubbczJSKi8" .
