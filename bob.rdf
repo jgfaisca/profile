@@ -6,7 +6,7 @@
   <foaf:Person rdf:about="http://zekaf.github.io/profile/bob#me">
     <foaf:name>Bob</foaf:name>
     <foaf:knows rdf:resource="https://example.edu/p/alice#me"/>
-    <cc:wallet>namecoin:N2pGWAh67TWpWmEFrFxsRQkQubbczJSKi8</cc:wallet>
+    <cc:wallet>namecoin:N1QJZGE8uA9Pd8Pv7QMRGM32vR3Ymx61gm</cc:wallet>
   </foaf:Person>
 
 </rdf:RDF>
