@@ -5,4 +5,4 @@
   a foaf:Person ;
   foaf:name "Bob" ;
   foaf:knows <https://example.edu/p/alice#me> ;
-  cc:wallet "namecoin:N2pGWAh67TWpWmEFrFxsRQkQubbczJSKi8" .
+  cc:wallet "namecoin:N1QJZGE8uA9Pd8Pv7QMRGM32vR3Ymx61gm" .
